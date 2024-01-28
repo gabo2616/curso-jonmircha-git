@@ -1,0 +1,66 @@
+commit a76f00bac0f48840ef4adacaa89a79515616f207
+Author: gabo <guzmang26@gmail.com>
+Date:   Sat Jan 27 21:43:46 2024 -0400
+
+    agregando las estaciones del año
+
+commit 9ab9b5134c5ccfd5b5a4e403beeed3ab5afa6a3e
+Author: gabo <guzmang26@gmail.com>
+Date:   Sat Jan 27 21:14:20 2024 -0400
+
+    agregando style.css al html
+
+commit 48b61d9c3a4e3675c68bc38f9d364a3a01758ae9
+Merge: 3a8158e 862a7e1
+Author: gabo <guzmang26@gmail.com>
+Date:   Sat Jan 27 20:43:21 2024 -0400
+
+    Merge branch 'js'
+
+commit 862a7e16ec747979fa95b24177261acc8714e302
+Author: gabo <guzmang26@gmail.com>
+Date:   Sat Jan 27 19:44:21 2024 -0400
+
+    creando archivo js
+
+commit 3a8158ec08a3e93c034e741f8b01105b88067879
+Author: gabo <guzmang26@gmail.com>
+Date:   Sat Jan 27 19:35:55 2024 -0400
+
+    creando style.css
+
+commit 6df87fd3a93b7d621a1626aaf3bdfbf78d153d0a
+Author: gabo <guzmang26@gmail.com>
+Date:   Sat Jan 27 19:29:59 2024 -0400
+
+    creando archivo html
+
+commit ffcffd311ffdf28ba8c07f828248e49d99f02660
+Author: gabo <guzmang26@gmail.com>
+Date:   Sat Jan 27 12:20:45 2024 -0400
+
+    ingnorando archivos .exe
+
+commit bc52b343f6da7972bdd3410aeaaa810d12407b6e
+Author: gabo2616 <49300346+gabo2616@users.noreply.github.com>
+Date:   Fri Jan 26 20:58:49 2024 -0400
+
+    Create LICENSE del repositorio
+
+commit e1b6a39a9eff097ba9e093fdee23dbc6b62cab3a
+Author: gabo <guzmang26@gmail.com>
+Date:   Fri Jan 26 19:37:34 2024 -0400
+
+    colocando mas contenido
+
+commit 726cf4d39b1465cb04ceac0d04c6256ac228549f
+Author: gabo <maximiliano@gmail.com>
+Date:   Fri Jan 26 16:57:17 2024 -0400
+
+    agregando contenido inicial
+
+commit 36a51e43b104206d84d36c75a2adcc0174ef5b08
+Author: gabo <maximiliano@gmail.com>
+Date:   Fri Jan 26 16:51:33 2024 -0400
+
+    primer commit
